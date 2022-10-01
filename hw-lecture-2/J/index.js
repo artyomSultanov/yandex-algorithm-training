@@ -1,3 +1,6 @@
+// Треугольник Максима
+// https://contest.yandex.ru/contest/27472/problems/J/
+
 const readline = require('readline')
 
 const rl = readline.createInterface({
