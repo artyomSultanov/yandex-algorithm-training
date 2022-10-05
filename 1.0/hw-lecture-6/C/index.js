@@ -41,8 +41,8 @@ function solve(w, h, n) {
   }
   return l * Math.max(w, h)
 }
-console.log(solve(1, 1, 1))
-console.log(solve(2, 3, 10))
+console.log(solve(1, 1, 2))
+console.log(solve(2, 3, 12))
 console.log(solve(1, 2, 3))
 console.log(solve(6, 6, 5))
 console.log(solve(2, 3, 13))
